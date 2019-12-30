@@ -1,5 +1,7 @@
 {
   "name": "test-appflow",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
